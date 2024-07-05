@@ -1,1 +1,1 @@
-# Work in Progress (Planning)
+# This is a password generator which I've made using HTML, CSS, and JavaScript. This is made in a wway which will curate to your needs of a strong password with your choice of frequency of Uppercase, Lowercase, Special Symbols and Numbers, with a specified length upto 30 characters which you can define yourself.
